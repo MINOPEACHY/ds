@@ -1,0 +1,1501 @@
+customer_id,signup_date,region,email_subscriber,acquisition_channel
+CUST-0000,2024-04-12,US-West,False,Organic
+CUST-0001,2024-09-27,Canada,True,Social
+CUST-0002,2024-04-16,US-West,True,Organic
+CUST-0003,2024-03-12,US-West,True,Paid Search
+CUST-0004,2024-07-07,Canada,False,Social
+CUST-0005,2024-01-21,US-West,False,Organic
+CUST-0006,2024-04-12,US-West,True,Organic
+CUST-0007,2024-05-01,US-West,False,Paid Search
+CUST-0008,2024-08-02,US-West,True,Paid Search
+CUST-0009,2024-03-28,Canada,True,Paid Search
+CUST-0010,2024-04-09,US-West,True,Social
+CUST-0011,2024-05-31,US-West,True,Organic
+CUST-0012,2024-05-10,Canada,True,Paid Search
+CUST-0013,2024-05-29,US-Central,False,Paid Search
+CUST-0014,2024-09-14,US-East,False,Organic
+CUST-0015,2024-10-20,US-Central,True,Paid Search
+CUST-0016,2024-07-10,Canada,True,Organic
+CUST-0017,2024-10-03,US-East,True,Paid Search
+CUST-0018,2024-06-09,Canada,True,Organic
+CUST-0019,2024-01-22,Canada,True,Paid Search
+CUST-0020,2024-09-09,US-West,True,Paid Search
+CUST-0021,2024-08-23,US-East,True,Social
+CUST-0022,2024-02-18,US-West,False,Organic
+CUST-0023,2024-02-28,US-East,True,Paid Search
+CUST-0024,2024-06-18,Canada,True,Paid Search
+CUST-0025,2024-07-06,Canada,False,Social
+CUST-0026,2024-09-27,US-Central,True,Paid Search
+CUST-0027,2024-07-08,US-East,True,Social
+CUST-0028,2024-06-23,US-West,True,Social
+CUST-0029,2024-02-20,US-Central,True,Social
+CUST-0030,2024-02-24,US-Central,False,Paid Search
+CUST-0031,2024-08-31,US-Central,True,Paid Search
+CUST-0032,2024-05-10,US-West,True,Social
+CUST-0033,2024-05-14,US-Central,False,Email
+CUST-0034,2024-01-21,US-West,False,Social
+CUST-0035,2024-06-15,US-Central,False,Paid Search
+CUST-0036,2024-09-30,US-West,True,Organic
+CUST-0037,2024-03-29,Canada,True,Paid Search
+CUST-0038,2024-01-14,Canada,False,Social
+CUST-0039,2024-08-29,Canada,False,Paid Search
+CUST-0040,2024-09-21,Canada,True,Paid Search
+CUST-0041,2024-02-22,Canada,True,Social
+CUST-0042,2024-04-01,US-Central,True,Paid Search
+CUST-0043,2024-09-20,US-Central,False,Social
+CUST-0044,2024-02-04,US-Central,True,Paid Search
+CUST-0045,2024-07-24,US-West,True,Paid Search
+CUST-0046,2024-03-21,US-West,True,Paid Search
+CUST-0047,2024-02-19,US-West,True,Social
+CUST-0048,2024-01-02,US-West,False,Organic
+CUST-0049,2024-02-23,Canada,True,Organic
+CUST-0050,2024-04-15,Canada,False,Email
+CUST-0051,2024-09-16,Canada,False,Organic
+CUST-0052,2024-07-09,US-East,True,Paid Search
+CUST-0053,2024-08-05,US-Central,True,Paid Search
+CUST-0054,2024-02-13,US-West,True,Paid Search
+CUST-0055,2024-06-10,US-West,False,Paid Search
+CUST-0056,2024-07-20,Canada,True,Organic
+CUST-0057,2024-09-26,US-West,True,Paid Search
+CUST-0058,2024-09-27,US-West,False,Paid Search
+CUST-0059,2024-08-02,US-Central,True,Social
+CUST-0060,2024-09-08,Canada,False,Organic
+CUST-0061,2024-07-08,US-Central,True,Paid Search
+CUST-0062,2024-10-22,US-East,True,Organic
+CUST-0063,2024-07-31,US-East,True,Organic
+CUST-0064,2024-07-26,US-East,False,Organic
+CUST-0065,2024-08-24,Canada,True,Organic
+CUST-0066,2024-02-22,US-West,False,Social
+CUST-0067,2024-10-06,Canada,False,Organic
+CUST-0068,2024-08-04,Canada,True,Email
+CUST-0069,2024-09-08,US-West,False,Email
+CUST-0070,2024-07-06,US-Central,True,Paid Search
+CUST-0071,2024-02-10,US-East,True,Organic
+CUST-0072,2024-06-05,US-Central,True,Paid Search
+CUST-0073,2024-01-15,US-East,False,Social
+CUST-0074,2024-03-05,Canada,True,Paid Search
+CUST-0075,2024-01-09,US-East,True,Organic
+CUST-0076,2024-05-08,Canada,True,Paid Search
+CUST-0077,2024-05-15,US-Central,True,Social
+CUST-0078,2024-03-03,Canada,True,Social
+CUST-0079,2024-05-18,US-Central,False,Organic
+CUST-0080,2024-03-21,US-West,False,Social
+CUST-0081,2024-06-11,US-West,True,Organic
+CUST-0082,2024-10-15,US-West,False,Organic
+CUST-0083,2024-09-17,Canada,True,Social
+CUST-0084,2024-08-18,US-West,False,Organic
+CUST-0085,2024-02-10,US-East,True,Organic
+CUST-0086,2024-01-28,US-Central,True,Organic
+CUST-0087,2024-05-14,US-Central,True,Social
+CUST-0088,2024-07-19,US-East,False,Social
+CUST-0089,2024-09-24,Canada,True,Paid Search
+CUST-0090,2024-02-02,Canada,True,Social
+CUST-0091,2024-02-17,US-Central,True,Organic
+CUST-0092,2024-03-02,US-West,True,Paid Search
+CUST-0093,2024-08-03,Canada,True,Paid Search
+CUST-0094,2024-10-19,Canada,False,Organic
+CUST-0095,2024-04-08,US-East,False,Paid Search
+CUST-0096,2024-06-20,US-East,True,Email
+CUST-0097,2024-08-01,US-West,False,Organic
+CUST-0098,2024-02-04,Canada,True,Organic
+CUST-0099,2024-08-14,Canada,False,Organic
+CUST-0100,2024-04-10,US-East,False,Organic
+CUST-0101,2024-05-10,Canada,True,Email
+CUST-0102,2024-09-13,US-Central,False,Paid Search
+CUST-0103,2024-01-05,US-East,True,Paid Search
+CUST-0104,2024-08-05,US-West,True,Social
+CUST-0105,2024-09-11,US-East,False,Organic
+CUST-0106,2024-10-09,Canada,True,Paid Search
+CUST-0107,2024-07-25,US-West,True,Paid Search
+CUST-0108,2024-01-15,US-East,True,Paid Search
+CUST-0109,2024-02-11,US-Central,False,Email
+CUST-0110,2024-06-27,US-Central,True,Social
+CUST-0111,2024-03-03,US-East,True,Paid Search
+CUST-0112,2024-08-18,US-Central,False,Social
+CUST-0113,2024-08-28,US-Central,False,Organic
+CUST-0114,2024-02-21,US-Central,True,Organic
+CUST-0115,2024-04-05,US-West,True,Organic
+CUST-0116,2024-08-09,US-Central,True,Paid Search
+CUST-0117,2024-08-18,US-Central,True,Paid Search
+CUST-0118,2024-08-24,US-Central,True,Paid Search
+CUST-0119,2024-05-22,US-West,False,Email
+CUST-0120,2024-06-19,US-East,True,Paid Search
+CUST-0121,2024-01-29,Canada,True,Paid Search
+CUST-0122,2024-02-05,US-Central,True,Organic
+CUST-0123,2024-01-13,US-East,False,Organic
+CUST-0124,2024-06-08,US-Central,True,Paid Search
+CUST-0125,2024-07-05,US-West,False,Paid Search
+CUST-0126,2024-08-30,US-East,True,Social
+CUST-0127,2024-03-26,US-West,True,Organic
+CUST-0128,2024-10-10,US-Central,True,Organic
+CUST-0129,2024-03-06,US-Central,True,Paid Search
+CUST-0130,2024-06-18,US-West,True,Organic
+CUST-0131,2024-02-14,Canada,True,Organic
+CUST-0132,2024-03-02,US-West,True,Social
+CUST-0133,2024-05-13,US-Central,False,Organic
+CUST-0134,2024-10-10,US-West,True,Paid Search
+CUST-0135,2024-01-28,Canada,False,Organic
+CUST-0136,2024-04-17,US-West,True,Organic
+CUST-0137,2024-02-13,Canada,True,Paid Search
+CUST-0138,2024-10-12,Canada,True,Social
+CUST-0139,2024-05-07,US-West,True,Paid Search
+CUST-0140,2024-08-18,US-West,True,Social
+CUST-0141,2024-07-08,US-East,True,Organic
+CUST-0142,2024-08-12,US-Central,True,Social
+CUST-0143,2024-10-09,Canada,True,Organic
+CUST-0144,2024-04-30,US-East,True,Social
+CUST-0145,2024-04-25,US-West,False,Paid Search
+CUST-0146,2024-08-20,US-Central,False,Email
+CUST-0147,2024-09-15,US-East,False,Paid Search
+CUST-0148,2024-07-16,Canada,False,Organic
+CUST-0149,2024-05-16,US-East,True,Organic
+CUST-0150,2024-06-13,Canada,True,Social
+CUST-0151,2024-08-12,US-West,False,Paid Search
+CUST-0152,2024-08-21,US-Central,True,Social
+CUST-0153,2024-06-20,US-Central,True,Organic
+CUST-0154,2024-05-31,US-Central,True,Paid Search
+CUST-0155,2024-06-08,US-West,True,Organic
+CUST-0156,2024-04-05,Canada,True,Email
+CUST-0157,2024-08-20,US-West,False,Social
+CUST-0158,2024-06-28,US-Central,True,Email
+CUST-0159,2024-04-22,US-West,True,Organic
+CUST-0160,2024-02-21,US-West,False,Paid Search
+CUST-0161,2024-09-24,US-West,True,Social
+CUST-0162,2024-10-21,Canada,True,Paid Search
+CUST-0163,2024-04-22,US-East,True,Social
+CUST-0164,2024-04-10,US-East,False,Email
+CUST-0165,2024-04-22,US-West,False,Social
+CUST-0166,2024-03-21,US-East,True,Social
+CUST-0167,2024-07-05,US-East,False,Organic
+CUST-0168,2024-04-22,US-West,True,Organic
+CUST-0169,2024-01-02,US-West,False,Email
+CUST-0170,2024-05-09,US-Central,False,Organic
+CUST-0171,2024-08-07,US-East,False,Social
+CUST-0172,2024-02-23,Canada,True,Social
+CUST-0173,2024-08-11,US-West,False,Paid Search
+CUST-0174,2024-08-12,US-Central,False,Email
+CUST-0175,2024-05-05,Canada,True,Paid Search
+CUST-0176,2024-05-09,US-East,False,Paid Search
+CUST-0177,2024-02-22,US-Central,True,Organic
+CUST-0178,2024-06-20,US-West,False,Paid Search
+CUST-0179,2024-08-05,Canada,True,Organic
+CUST-0180,2024-06-08,US-West,False,Paid Search
+CUST-0181,2024-07-16,US-East,True,Social
+CUST-0182,2024-09-03,Canada,True,Email
+CUST-0183,2024-07-21,US-East,True,Organic
+CUST-0184,2024-07-02,US-East,True,Paid Search
+CUST-0185,2024-05-02,US-Central,True,Email
+CUST-0186,2024-09-11,US-West,True,Organic
+CUST-0187,2024-10-20,Canada,True,Organic
+CUST-0188,2024-10-06,US-East,True,Organic
+CUST-0189,2024-04-07,US-East,True,Paid Search
+CUST-0190,2024-07-16,Canada,False,Organic
+CUST-0191,2024-08-27,US-East,True,Email
+CUST-0192,2024-05-23,US-Central,False,Paid Search
+CUST-0193,2024-04-06,US-Central,False,Paid Search
+CUST-0194,2024-07-19,US-Central,True,Organic
+CUST-0195,2024-05-03,US-Central,True,Paid Search
+CUST-0196,2024-07-05,US-East,False,Social
+CUST-0197,2024-09-15,Canada,True,Social
+CUST-0198,2024-05-27,Canada,True,Social
+CUST-0199,2024-09-08,Canada,True,Paid Search
+CUST-0200,2024-05-26,Canada,False,Email
+CUST-0201,2024-05-27,US-West,True,Social
+CUST-0202,2024-07-17,Canada,True,Social
+CUST-0203,2024-05-07,US-West,False,Organic
+CUST-0204,2024-02-08,US-West,False,Organic
+CUST-0205,2024-05-08,US-Central,True,Organic
+CUST-0206,2024-09-23,US-West,True,Social
+CUST-0207,2024-05-30,US-East,False,Paid Search
+CUST-0208,2024-10-24,US-West,True,Paid Search
+CUST-0209,2024-04-08,US-Central,True,Social
+CUST-0210,2024-09-19,US-West,True,Social
+CUST-0211,2024-09-08,US-East,False,Email
+CUST-0212,2024-05-23,US-East,True,Paid Search
+CUST-0213,2024-04-21,US-East,False,Social
+CUST-0214,2024-02-29,US-Central,False,Organic
+CUST-0215,2024-01-02,US-Central,True,Organic
+CUST-0216,2024-09-10,Canada,True,Organic
+CUST-0217,2024-05-19,US-Central,True,Paid Search
+CUST-0218,2024-02-06,US-East,True,Paid Search
+CUST-0219,2024-06-08,US-East,True,Social
+CUST-0220,2024-01-09,US-Central,False,Organic
+CUST-0221,2024-08-20,US-West,True,Social
+CUST-0222,2024-04-08,US-Central,False,Paid Search
+CUST-0223,2024-05-26,US-Central,True,Organic
+CUST-0224,2024-07-26,US-East,True,Paid Search
+CUST-0225,2024-05-10,Canada,True,Organic
+CUST-0226,2024-05-31,US-East,True,Paid Search
+CUST-0227,2024-02-23,Canada,False,Paid Search
+CUST-0228,2024-04-29,US-East,True,Organic
+CUST-0229,2024-06-09,US-Central,True,Organic
+CUST-0230,2024-04-25,US-East,True,Paid Search
+CUST-0231,2024-03-15,US-East,True,Email
+CUST-0232,2024-04-22,US-East,True,Paid Search
+CUST-0233,2024-04-13,US-Central,True,Social
+CUST-0234,2024-09-10,US-Central,False,Social
+CUST-0235,2024-08-14,US-Central,True,Email
+CUST-0236,2024-04-21,US-Central,False,Social
+CUST-0237,2024-04-08,Canada,True,Paid Search
+CUST-0238,2024-06-01,Canada,True,Social
+CUST-0239,2024-07-12,US-West,True,Social
+CUST-0240,2024-06-11,US-Central,True,Paid Search
+CUST-0241,2024-07-26,Canada,True,Paid Search
+CUST-0242,2024-06-17,US-East,True,Organic
+CUST-0243,2024-06-09,US-Central,True,Social
+CUST-0244,2024-03-08,US-West,True,Social
+CUST-0245,2024-10-15,US-West,True,Organic
+CUST-0246,2024-10-03,US-West,False,Paid Search
+CUST-0247,2024-05-14,US-East,True,Paid Search
+CUST-0248,2024-07-13,Canada,True,Organic
+CUST-0249,2024-05-07,US-East,True,Email
+CUST-0250,2024-02-02,US-Central,True,Organic
+CUST-0251,2024-06-24,US-West,True,Organic
+CUST-0252,2024-01-22,US-East,True,Paid Search
+CUST-0253,2024-08-25,US-East,True,Social
+CUST-0254,2024-06-06,Canada,True,Organic
+CUST-0255,2024-02-07,Canada,True,Social
+CUST-0256,2024-08-17,US-West,True,Paid Search
+CUST-0257,2024-02-20,US-East,True,Organic
+CUST-0258,2024-09-20,US-East,True,Organic
+CUST-0259,2024-10-09,Canada,True,Paid Search
+CUST-0260,2024-01-27,US-East,False,Organic
+CUST-0261,2024-08-13,US-East,True,Email
+CUST-0262,2024-10-03,US-East,True,Social
+CUST-0263,2024-10-12,Canada,True,Email
+CUST-0264,2024-04-06,US-West,False,Organic
+CUST-0265,2024-10-10,US-Central,True,Email
+CUST-0266,2024-05-26,US-West,True,Paid Search
+CUST-0267,2024-01-04,US-Central,True,Paid Search
+CUST-0268,2024-02-04,US-East,True,Organic
+CUST-0269,2024-07-10,US-West,True,Organic
+CUST-0270,2024-02-18,US-Central,True,Social
+CUST-0271,2024-01-17,Canada,False,Paid Search
+CUST-0272,2024-06-20,Canada,True,Organic
+CUST-0273,2024-08-07,US-West,False,Paid Search
+CUST-0274,2024-06-06,US-West,False,Organic
+CUST-0275,2024-02-15,US-East,True,Paid Search
+CUST-0276,2024-01-06,US-West,True,Paid Search
+CUST-0277,2024-04-08,US-East,True,Social
+CUST-0278,2024-08-20,US-East,True,Social
+CUST-0279,2024-02-06,Canada,True,Paid Search
+CUST-0280,2024-10-06,Canada,False,Paid Search
+CUST-0281,2024-06-29,US-Central,False,Paid Search
+CUST-0282,2024-04-04,Canada,True,Social
+CUST-0283,2024-04-08,Canada,True,Paid Search
+CUST-0284,2024-07-06,US-West,False,Organic
+CUST-0285,2024-04-25,Canada,False,Organic
+CUST-0286,2024-07-09,US-Central,False,Paid Search
+CUST-0287,2024-09-09,US-West,True,Paid Search
+CUST-0288,2024-06-09,US-Central,True,Social
+CUST-0289,2024-09-12,Canada,True,Organic
+CUST-0290,2024-05-07,US-Central,True,Paid Search
+CUST-0291,2024-01-18,US-West,True,Social
+CUST-0292,2024-10-07,US-East,True,Social
+CUST-0293,2024-08-10,US-Central,True,Paid Search
+CUST-0294,2024-02-23,US-Central,True,Paid Search
+CUST-0295,2024-02-27,US-West,True,Paid Search
+CUST-0296,2024-06-22,US-West,True,Email
+CUST-0297,2024-10-06,US-Central,True,Organic
+CUST-0298,2024-04-23,Canada,True,Email
+CUST-0299,2024-10-14,US-Central,True,Social
+CUST-0300,2024-05-30,US-West,False,Paid Search
+CUST-0301,2024-05-06,US-East,True,Organic
+CUST-0302,2024-06-03,US-East,True,Paid Search
+CUST-0303,2024-09-29,Canada,True,Paid Search
+CUST-0304,2024-04-13,US-Central,False,Organic
+CUST-0305,2024-10-25,US-East,True,Social
+CUST-0306,2024-09-02,US-Central,True,Email
+CUST-0307,2024-06-24,US-West,True,Paid Search
+CUST-0308,2024-02-08,US-East,True,Social
+CUST-0309,2024-06-18,Canada,True,Organic
+CUST-0310,2024-09-03,US-West,True,Paid Search
+CUST-0311,2024-01-26,Canada,False,Organic
+CUST-0312,2024-01-13,US-West,True,Paid Search
+CUST-0313,2024-02-05,US-East,False,Email
+CUST-0314,2024-06-21,Canada,False,Social
+CUST-0315,2024-01-20,Canada,True,Organic
+CUST-0316,2024-09-20,US-West,False,Paid Search
+CUST-0317,2024-05-21,Canada,True,Paid Search
+CUST-0318,2024-05-22,US-West,True,Paid Search
+CUST-0319,2024-04-01,US-West,True,Social
+CUST-0320,2024-10-14,US-West,True,Social
+CUST-0321,2024-08-02,US-West,True,Paid Search
+CUST-0322,2024-02-20,US-East,True,Paid Search
+CUST-0323,2024-06-01,US-West,True,Organic
+CUST-0324,2024-07-04,US-Central,True,Organic
+CUST-0325,2024-03-03,Canada,True,Paid Search
+CUST-0326,2024-07-08,US-Central,True,Paid Search
+CUST-0327,2024-05-04,US-East,True,Social
+CUST-0328,2024-05-29,US-Central,True,Social
+CUST-0329,2024-02-27,Canada,False,Organic
+CUST-0330,2024-06-28,US-Central,True,Paid Search
+CUST-0331,2024-06-18,US-East,False,Organic
+CUST-0332,2024-09-27,US-West,True,Organic
+CUST-0333,2024-02-23,US-Central,True,Social
+CUST-0334,2024-04-10,US-East,True,Organic
+CUST-0335,2024-09-20,US-East,True,Paid Search
+CUST-0336,2024-02-22,Canada,True,Organic
+CUST-0337,2024-02-29,Canada,False,Social
+CUST-0338,2024-04-17,US-Central,True,Paid Search
+CUST-0339,2024-01-05,US-West,False,Organic
+CUST-0340,2024-04-12,US-East,False,Paid Search
+CUST-0341,2024-07-14,US-Central,False,Social
+CUST-0342,2024-09-18,US-East,False,Email
+CUST-0343,2024-02-16,US-East,True,Organic
+CUST-0344,2024-05-23,US-West,True,Social
+CUST-0345,2024-09-25,US-West,True,Email
+CUST-0346,2024-05-03,US-Central,True,Email
+CUST-0347,2024-04-15,US-West,True,Paid Search
+CUST-0348,2024-06-06,US-West,False,Paid Search
+CUST-0349,2024-05-26,US-Central,True,Paid Search
+CUST-0350,2024-05-24,US-West,True,Social
+CUST-0351,2024-04-29,Canada,True,Paid Search
+CUST-0352,2024-10-01,US-East,True,Social
+CUST-0353,2024-04-01,US-East,True,Paid Search
+CUST-0354,2024-02-27,US-East,False,Social
+CUST-0355,2024-08-16,US-East,True,Social
+CUST-0356,2024-04-26,US-Central,True,Organic
+CUST-0357,2024-10-05,US-East,True,Social
+CUST-0358,2024-05-06,US-East,True,Paid Search
+CUST-0359,2024-05-08,US-East,True,Social
+CUST-0360,2024-02-27,US-East,True,Paid Search
+CUST-0361,2024-05-01,Canada,True,Paid Search
+CUST-0362,2024-01-01,US-East,True,Email
+CUST-0363,2024-08-26,Canada,True,Organic
+CUST-0364,2024-10-16,US-Central,True,Social
+CUST-0365,2024-04-05,US-West,True,Paid Search
+CUST-0366,2024-05-05,US-East,True,Paid Search
+CUST-0367,2024-04-27,US-West,True,Paid Search
+CUST-0368,2024-02-17,US-West,False,Paid Search
+CUST-0369,2024-03-29,US-Central,True,Paid Search
+CUST-0370,2024-08-24,US-West,True,Organic
+CUST-0371,2024-09-28,Canada,True,Organic
+CUST-0372,2024-07-07,US-West,True,Organic
+CUST-0373,2024-07-10,US-West,True,Email
+CUST-0374,2024-03-09,US-West,True,Email
+CUST-0375,2024-10-04,US-East,False,Paid Search
+CUST-0376,2024-09-03,US-East,True,Social
+CUST-0377,2024-03-16,Canada,True,Paid Search
+CUST-0378,2024-06-02,Canada,True,Social
+CUST-0379,2024-05-23,US-East,True,Social
+CUST-0380,2024-03-26,Canada,True,Email
+CUST-0381,2024-07-03,US-East,True,Paid Search
+CUST-0382,2024-10-11,US-Central,False,Social
+CUST-0383,2024-08-07,US-West,True,Organic
+CUST-0384,2024-03-09,US-West,True,Email
+CUST-0385,2024-02-16,Canada,False,Organic
+CUST-0386,2024-04-03,US-East,True,Paid Search
+CUST-0387,2024-08-25,US-East,False,Social
+CUST-0388,2024-07-22,Canada,True,Social
+CUST-0389,2024-08-05,US-East,False,Organic
+CUST-0390,2024-02-08,US-Central,True,Email
+CUST-0391,2024-04-09,US-West,False,Organic
+CUST-0392,2024-10-15,Canada,False,Paid Search
+CUST-0393,2024-09-10,Canada,True,Organic
+CUST-0394,2024-08-09,US-East,False,Paid Search
+CUST-0395,2024-01-23,Canada,True,Paid Search
+CUST-0396,2024-09-06,US-Central,True,Paid Search
+CUST-0397,2024-01-10,US-East,True,Organic
+CUST-0398,2024-09-02,US-East,True,Organic
+CUST-0399,2024-04-09,US-East,True,Paid Search
+CUST-0400,2024-10-16,US-East,True,Social
+CUST-0401,2024-06-28,US-Central,True,Social
+CUST-0402,2024-08-10,US-East,False,Organic
+CUST-0403,2024-09-06,Canada,False,Paid Search
+CUST-0404,2024-05-26,US-Central,True,Organic
+CUST-0405,2024-04-05,US-West,True,Organic
+CUST-0406,2024-09-13,US-West,True,Social
+CUST-0407,2024-01-04,Canada,True,Paid Search
+CUST-0408,2024-01-16,Canada,True,Organic
+CUST-0409,2024-10-06,US-Central,True,Organic
+CUST-0410,2024-09-03,US-West,True,Organic
+CUST-0411,2024-09-14,US-West,False,Social
+CUST-0412,2024-06-08,US-West,True,Email
+CUST-0413,2024-05-31,US-West,True,Organic
+CUST-0414,2024-06-26,US-West,True,Organic
+CUST-0415,2024-06-11,US-East,True,Social
+CUST-0416,2024-02-02,Canada,True,Email
+CUST-0417,2024-06-27,US-East,True,Paid Search
+CUST-0418,2024-04-10,US-West,True,Organic
+CUST-0419,2024-09-24,US-Central,True,Organic
+CUST-0420,2024-03-05,US-Central,False,Paid Search
+CUST-0421,2024-06-16,US-West,False,Paid Search
+CUST-0422,2024-02-12,US-West,True,Organic
+CUST-0423,2024-02-13,US-Central,True,Paid Search
+CUST-0424,2024-10-11,US-East,True,Organic
+CUST-0425,2024-01-12,US-East,True,Social
+CUST-0426,2024-04-04,US-West,True,Paid Search
+CUST-0427,2024-09-09,US-East,True,Organic
+CUST-0428,2024-08-29,US-Central,True,Paid Search
+CUST-0429,2024-02-04,US-East,True,Paid Search
+CUST-0430,2024-08-02,US-West,True,Email
+CUST-0431,2024-03-30,US-Central,False,Paid Search
+CUST-0432,2024-09-20,US-East,False,Organic
+CUST-0433,2024-04-02,Canada,False,Social
+CUST-0434,2024-03-30,US-Central,True,Organic
+CUST-0435,2024-04-24,US-Central,False,Email
+CUST-0436,2024-04-14,Canada,True,Paid Search
+CUST-0437,2024-07-14,Canada,False,Paid Search
+CUST-0438,2024-04-23,US-Central,True,Organic
+CUST-0439,2024-03-15,Canada,False,Paid Search
+CUST-0440,2024-08-04,US-West,True,Social
+CUST-0441,2024-10-03,US-West,False,Social
+CUST-0442,2024-09-05,US-West,False,Organic
+CUST-0443,2024-06-12,US-Central,True,Organic
+CUST-0444,2024-07-10,Canada,True,Social
+CUST-0445,2024-08-14,Canada,False,Email
+CUST-0446,2024-06-25,US-East,True,Organic
+CUST-0447,2024-04-08,US-East,False,Paid Search
+CUST-0448,2024-02-05,Canada,True,Paid Search
+CUST-0449,2024-04-05,Canada,True,Social
+CUST-0450,2024-05-31,Canada,True,Organic
+CUST-0451,2024-05-30,US-Central,True,Organic
+CUST-0452,2024-07-08,Canada,False,Social
+CUST-0453,2024-08-11,US-East,True,Organic
+CUST-0454,2024-02-06,US-Central,True,Paid Search
+CUST-0455,2024-09-24,Canada,True,Paid Search
+CUST-0456,2024-07-01,US-East,True,Paid Search
+CUST-0457,2024-01-13,US-Central,False,Paid Search
+CUST-0458,2024-10-05,Canada,False,Paid Search
+CUST-0459,2024-08-04,Canada,True,Organic
+CUST-0460,2024-10-12,Canada,False,Paid Search
+CUST-0461,2024-09-29,US-Central,False,Social
+CUST-0462,2024-03-02,US-East,True,Social
+CUST-0463,2024-03-24,US-East,False,Organic
+CUST-0464,2024-08-04,US-West,True,Organic
+CUST-0465,2024-07-05,Canada,True,Organic
+CUST-0466,2024-01-19,US-West,False,Paid Search
+CUST-0467,2024-06-25,US-West,True,Paid Search
+CUST-0468,2024-04-09,US-East,False,Social
+CUST-0469,2024-08-20,US-Central,False,Organic
+CUST-0470,2024-03-16,US-Central,True,Organic
+CUST-0471,2024-09-21,US-East,False,Paid Search
+CUST-0472,2024-10-10,US-Central,True,Social
+CUST-0473,2024-07-24,US-West,True,Organic
+CUST-0474,2024-08-10,Canada,True,Paid Search
+CUST-0475,2024-02-21,US-East,False,Organic
+CUST-0476,2024-05-23,Canada,True,Social
+CUST-0477,2024-03-09,US-Central,True,Social
+CUST-0478,2024-04-08,Canada,True,Organic
+CUST-0479,2024-01-25,US-Central,False,Organic
+CUST-0480,2024-02-22,US-Central,True,Paid Search
+CUST-0481,2024-05-30,US-West,True,Organic
+CUST-0482,2024-05-23,US-Central,True,Social
+CUST-0483,2024-02-26,US-West,True,Social
+CUST-0484,2024-02-08,US-West,False,Social
+CUST-0485,2024-04-18,US-West,True,Social
+CUST-0486,2024-06-29,US-East,True,Paid Search
+CUST-0487,2024-02-11,US-East,False,Organic
+CUST-0488,2024-07-04,US-Central,True,Social
+CUST-0489,2024-08-10,US-West,False,Paid Search
+CUST-0490,2024-05-01,US-East,True,Social
+CUST-0491,2024-05-12,US-West,False,Organic
+CUST-0492,2024-06-11,Canada,True,Organic
+CUST-0493,2024-08-02,Canada,True,Email
+CUST-0494,2024-08-08,Canada,False,Organic
+CUST-0495,2024-08-22,US-Central,False,Email
+CUST-0496,2024-05-25,US-West,False,Email
+CUST-0497,2024-08-26,Canada,True,Social
+CUST-0498,2024-03-16,US-East,False,Social
+CUST-0499,2024-01-09,Canada,False,Paid Search
+CUST-0500,2024-03-14,Canada,True,Social
+CUST-0501,2024-09-09,Canada,False,Organic
+CUST-0502,2024-08-17,US-Central,False,Paid Search
+CUST-0503,2024-01-07,US-East,True,Paid Search
+CUST-0504,2024-06-22,US-West,True,Paid Search
+CUST-0505,2024-05-20,US-East,True,Paid Search
+CUST-0506,2024-06-16,US-West,True,Paid Search
+CUST-0507,2024-06-18,US-Central,True,Paid Search
+CUST-0508,2024-10-09,US-Central,True,Social
+CUST-0509,2024-05-01,US-Central,True,Organic
+CUST-0510,2024-07-12,US-Central,True,Email
+CUST-0511,2024-01-05,US-West,True,Social
+CUST-0512,2024-01-29,Canada,False,Social
+CUST-0513,2024-06-13,US-West,False,Paid Search
+CUST-0514,2024-05-15,US-East,True,Social
+CUST-0515,2024-05-24,US-Central,False,Organic
+CUST-0516,2024-08-04,US-Central,True,Social
+CUST-0517,2024-05-11,US-East,True,Organic
+CUST-0518,2024-10-18,US-West,True,Social
+CUST-0519,2024-03-10,Canada,True,Email
+CUST-0520,2024-09-08,Canada,False,Organic
+CUST-0521,2024-10-01,US-East,False,Organic
+CUST-0522,2024-06-30,Canada,True,Social
+CUST-0523,2024-06-15,US-West,True,Organic
+CUST-0524,2024-03-31,US-West,True,Social
+CUST-0525,2024-07-20,US-East,True,Organic
+CUST-0526,2024-01-19,US-West,True,Organic
+CUST-0527,2024-02-08,US-Central,True,Email
+CUST-0528,2024-05-05,US-East,False,Social
+CUST-0529,2024-06-21,US-West,False,Social
+CUST-0530,2024-05-20,US-East,True,Paid Search
+CUST-0531,2024-08-29,Canada,False,Social
+CUST-0532,2024-08-07,US-West,True,Paid Search
+CUST-0533,2024-05-05,US-Central,True,Paid Search
+CUST-0534,2024-02-27,US-West,True,Social
+CUST-0535,2024-05-27,US-East,True,Paid Search
+CUST-0536,2024-01-01,US-East,False,Paid Search
+CUST-0537,2024-07-08,US-West,True,Organic
+CUST-0538,2024-07-09,US-Central,True,Social
+CUST-0539,2024-04-26,US-Central,True,Organic
+CUST-0540,2024-05-13,US-Central,True,Social
+CUST-0541,2024-02-27,US-East,False,Organic
+CUST-0542,2024-02-13,US-West,True,Paid Search
+CUST-0543,2024-06-21,Canada,True,Social
+CUST-0544,2024-06-08,US-East,True,Organic
+CUST-0545,2024-06-21,US-Central,True,Organic
+CUST-0546,2024-05-28,US-West,True,Organic
+CUST-0547,2024-03-20,US-Central,True,Paid Search
+CUST-0548,2024-07-31,Canada,True,Social
+CUST-0549,2024-07-21,US-Central,False,Organic
+CUST-0550,2024-09-08,US-Central,False,Social
+CUST-0551,2024-08-16,Canada,False,Paid Search
+CUST-0552,2024-06-12,US-West,True,Paid Search
+CUST-0553,2024-08-14,US-East,True,Email
+CUST-0554,2024-05-26,US-West,True,Paid Search
+CUST-0555,2024-01-20,Canada,False,Paid Search
+CUST-0556,2024-02-16,US-Central,True,Organic
+CUST-0557,2024-08-20,US-West,True,Organic
+CUST-0558,2024-01-14,US-East,True,Organic
+CUST-0559,2024-05-22,Canada,True,Organic
+CUST-0560,2024-01-01,US-West,True,Paid Search
+CUST-0561,2024-02-23,US-East,True,Paid Search
+CUST-0562,2024-09-15,Canada,False,Paid Search
+CUST-0563,2024-05-23,US-East,True,Organic
+CUST-0564,2024-01-12,Canada,True,Organic
+CUST-0565,2024-08-11,US-Central,True,Social
+CUST-0566,2024-09-28,US-West,True,Email
+CUST-0567,2024-06-04,US-East,True,Organic
+CUST-0568,2024-01-08,Canada,False,Social
+CUST-0569,2024-05-01,US-East,True,Paid Search
+CUST-0570,2024-06-12,US-East,False,Paid Search
+CUST-0571,2024-03-30,US-West,True,Paid Search
+CUST-0572,2024-05-15,US-Central,True,Organic
+CUST-0573,2024-07-04,US-East,False,Organic
+CUST-0574,2024-06-26,Canada,True,Paid Search
+CUST-0575,2024-01-28,Canada,True,Paid Search
+CUST-0576,2024-08-07,US-Central,True,Email
+CUST-0577,2024-02-10,Canada,True,Paid Search
+CUST-0578,2024-08-15,US-Central,False,Organic
+CUST-0579,2024-07-10,Canada,True,Social
+CUST-0580,2024-05-24,US-West,False,Organic
+CUST-0581,2024-07-19,US-East,False,Paid Search
+CUST-0582,2024-07-30,US-West,True,Social
+CUST-0583,2024-08-07,US-East,False,Email
+CUST-0584,2024-08-27,US-East,True,Social
+CUST-0585,2024-02-15,US-East,False,Social
+CUST-0586,2024-02-04,US-West,True,Social
+CUST-0587,2024-09-09,US-East,True,Email
+CUST-0588,2024-03-22,US-West,True,Organic
+CUST-0589,2024-09-12,US-Central,True,Organic
+CUST-0590,2024-07-15,Canada,True,Organic
+CUST-0591,2024-01-10,Canada,False,Organic
+CUST-0592,2024-10-12,US-East,True,Social
+CUST-0593,2024-08-29,US-West,True,Paid Search
+CUST-0594,2024-09-07,Canada,False,Paid Search
+CUST-0595,2024-01-05,US-West,True,Organic
+CUST-0596,2024-04-28,US-West,False,Social
+CUST-0597,2024-10-15,US-East,False,Paid Search
+CUST-0598,2024-03-05,Canada,False,Social
+CUST-0599,2024-05-25,US-East,False,Paid Search
+CUST-0600,2024-08-11,US-East,True,Paid Search
+CUST-0601,2024-08-26,Canada,True,Organic
+CUST-0602,2024-06-25,Canada,False,Organic
+CUST-0603,2024-09-23,US-Central,True,Social
+CUST-0604,2024-10-08,US-Central,True,Email
+CUST-0605,2024-03-03,US-West,True,Paid Search
+CUST-0606,2024-08-04,Canada,False,Organic
+CUST-0607,2024-10-09,US-Central,True,Paid Search
+CUST-0608,2024-06-25,US-West,True,Social
+CUST-0609,2024-04-07,US-West,True,Social
+CUST-0610,2024-04-14,US-West,True,Organic
+CUST-0611,2024-04-08,US-Central,True,Organic
+CUST-0612,2024-01-06,Canada,True,Social
+CUST-0613,2024-07-15,US-East,True,Paid Search
+CUST-0614,2024-05-12,US-West,False,Organic
+CUST-0615,2024-09-15,US-Central,True,Organic
+CUST-0616,2024-01-23,US-Central,False,Paid Search
+CUST-0617,2024-02-22,US-East,False,Social
+CUST-0618,2024-06-13,US-East,True,Email
+CUST-0619,2024-07-20,US-Central,True,Paid Search
+CUST-0620,2024-03-23,Canada,True,Paid Search
+CUST-0621,2024-05-24,US-East,False,Organic
+CUST-0622,2024-03-25,US-Central,True,Paid Search
+CUST-0623,2024-03-18,US-East,True,Paid Search
+CUST-0624,2024-01-01,Canada,True,Paid Search
+CUST-0625,2024-02-20,US-West,True,Paid Search
+CUST-0626,2024-06-21,US-East,True,Organic
+CUST-0627,2024-07-23,Canada,True,Organic
+CUST-0628,2024-09-16,US-Central,False,Paid Search
+CUST-0629,2024-10-14,US-East,True,Organic
+CUST-0630,2024-02-03,US-East,True,Organic
+CUST-0631,2024-04-04,US-Central,True,Email
+CUST-0632,2024-03-12,US-West,False,Paid Search
+CUST-0633,2024-02-08,US-Central,True,Paid Search
+CUST-0634,2024-06-02,US-East,False,Social
+CUST-0635,2024-09-06,US-Central,True,Email
+CUST-0636,2024-06-10,Canada,True,Paid Search
+CUST-0637,2024-04-27,US-Central,True,Social
+CUST-0638,2024-09-15,US-East,True,Paid Search
+CUST-0639,2024-09-24,US-Central,True,Paid Search
+CUST-0640,2024-02-23,US-West,True,Paid Search
+CUST-0641,2024-08-23,US-Central,False,Social
+CUST-0642,2024-08-09,US-West,True,Social
+CUST-0643,2024-09-07,Canada,True,Paid Search
+CUST-0644,2024-04-21,US-West,True,Organic
+CUST-0645,2024-09-11,US-Central,True,Paid Search
+CUST-0646,2024-07-25,US-East,True,Organic
+CUST-0647,2024-08-16,US-West,True,Paid Search
+CUST-0648,2024-03-06,Canada,True,Social
+CUST-0649,2024-03-15,US-West,True,Social
+CUST-0650,2024-04-12,US-West,True,Social
+CUST-0651,2024-07-10,US-West,True,Social
+CUST-0652,2024-09-08,Canada,True,Paid Search
+CUST-0653,2024-08-13,US-Central,True,Social
+CUST-0654,2024-10-20,US-West,False,Paid Search
+CUST-0655,2024-04-07,US-West,True,Organic
+CUST-0656,2024-10-12,US-East,True,Organic
+CUST-0657,2024-09-05,Canada,True,Organic
+CUST-0658,2024-06-14,US-West,False,Paid Search
+CUST-0659,2024-01-30,Canada,False,Paid Search
+CUST-0660,2024-09-03,US-West,True,Social
+CUST-0661,2024-04-15,US-Central,False,Organic
+CUST-0662,2024-02-20,US-Central,True,Organic
+CUST-0663,2024-03-21,US-West,True,Email
+CUST-0664,2024-05-12,US-Central,False,Organic
+CUST-0665,2024-10-11,US-West,False,Paid Search
+CUST-0666,2024-05-17,US-Central,True,Paid Search
+CUST-0667,2024-07-02,US-East,True,Paid Search
+CUST-0668,2024-09-29,US-East,True,Organic
+CUST-0669,2024-03-09,US-East,True,Organic
+CUST-0670,2024-02-03,Canada,False,Organic
+CUST-0671,2024-09-18,Canada,True,Paid Search
+CUST-0672,2024-02-22,US-East,True,Paid Search
+CUST-0673,2024-07-23,Canada,True,Organic
+CUST-0674,2024-05-05,US-Central,True,Paid Search
+CUST-0675,2024-08-22,US-West,True,Social
+CUST-0676,2024-02-12,US-West,True,Organic
+CUST-0677,2024-08-27,US-West,False,Paid Search
+CUST-0678,2024-04-20,US-East,False,Social
+CUST-0679,2024-09-05,Canada,True,Organic
+CUST-0680,2024-05-30,US-Central,False,Paid Search
+CUST-0681,2024-07-01,US-Central,False,Paid Search
+CUST-0682,2024-04-04,US-East,False,Social
+CUST-0683,2024-01-08,US-Central,True,Social
+CUST-0684,2024-07-02,US-Central,True,Paid Search
+CUST-0685,2024-10-07,US-Central,True,Social
+CUST-0686,2024-07-13,US-Central,True,Paid Search
+CUST-0687,2024-07-13,Canada,True,Paid Search
+CUST-0688,2024-06-03,US-Central,True,Paid Search
+CUST-0689,2024-04-02,US-West,True,Organic
+CUST-0690,2024-06-08,US-East,False,Social
+CUST-0691,2024-03-01,Canada,True,Paid Search
+CUST-0692,2024-05-01,US-Central,True,Paid Search
+CUST-0693,2024-02-20,Canada,False,Email
+CUST-0694,2024-10-03,US-Central,False,Organic
+CUST-0695,2024-01-05,US-West,False,Paid Search
+CUST-0696,2024-04-01,US-East,False,Organic
+CUST-0697,2024-06-18,US-Central,True,Social
+CUST-0698,2024-01-22,US-Central,False,Social
+CUST-0699,2024-01-01,US-Central,True,Paid Search
+CUST-0700,2024-05-12,US-Central,True,Social
+CUST-0701,2024-08-20,US-East,True,Paid Search
+CUST-0702,2024-01-12,US-East,True,Social
+CUST-0703,2024-02-15,US-West,True,Paid Search
+CUST-0704,2024-02-03,US-East,True,Paid Search
+CUST-0705,2024-03-18,US-Central,False,Email
+CUST-0706,2024-08-05,US-West,True,Organic
+CUST-0707,2024-03-13,US-West,True,Organic
+CUST-0708,2024-10-08,US-West,False,Paid Search
+CUST-0709,2024-09-05,US-Central,True,Email
+CUST-0710,2024-02-16,Canada,True,Paid Search
+CUST-0711,2024-04-30,US-Central,True,Organic
+CUST-0712,2024-08-01,US-East,True,Paid Search
+CUST-0713,2024-08-26,US-East,True,Paid Search
+CUST-0714,2024-02-25,US-Central,False,Organic
+CUST-0715,2024-04-16,US-Central,True,Social
+CUST-0716,2024-02-17,US-West,True,Email
+CUST-0717,2024-03-01,US-Central,False,Paid Search
+CUST-0718,2024-01-26,US-West,False,Paid Search
+CUST-0719,2024-10-18,US-East,True,Paid Search
+CUST-0720,2024-09-13,US-West,True,Organic
+CUST-0721,2024-01-08,US-Central,True,Social
+CUST-0722,2024-04-22,US-East,True,Paid Search
+CUST-0723,2024-09-09,Canada,True,Paid Search
+CUST-0724,2024-06-28,US-West,True,Social
+CUST-0725,2024-07-25,US-East,False,Paid Search
+CUST-0726,2024-05-06,US-West,True,Paid Search
+CUST-0727,2024-02-25,US-East,True,Organic
+CUST-0728,2024-08-01,US-East,True,Social
+CUST-0729,2024-01-14,US-West,True,Email
+CUST-0730,2024-01-28,Canada,True,Paid Search
+CUST-0731,2024-03-18,US-East,True,Email
+CUST-0732,2024-08-03,US-East,False,Organic
+CUST-0733,2024-06-02,US-East,True,Paid Search
+CUST-0734,2024-01-14,Canada,True,Paid Search
+CUST-0735,2024-07-05,Canada,True,Paid Search
+CUST-0736,2024-01-07,US-Central,True,Paid Search
+CUST-0737,2024-01-03,US-West,True,Paid Search
+CUST-0738,2024-04-20,Canada,True,Organic
+CUST-0739,2024-08-25,US-West,True,Paid Search
+CUST-0740,2024-08-26,US-Central,True,Organic
+CUST-0741,2024-09-30,US-West,False,Social
+CUST-0742,2024-10-20,Canada,False,Organic
+CUST-0743,2024-08-14,US-West,False,Organic
+CUST-0744,2024-01-15,Canada,False,Paid Search
+CUST-0745,2024-07-10,US-West,True,Paid Search
+CUST-0746,2024-04-28,Canada,False,Social
+CUST-0747,2024-01-28,Canada,True,Paid Search
+CUST-0748,2024-07-20,US-West,False,Paid Search
+CUST-0749,2024-02-08,US-Central,False,Social
+CUST-0750,2024-09-29,US-East,False,Paid Search
+CUST-0751,2024-08-18,US-Central,False,Organic
+CUST-0752,2024-03-26,US-West,True,Paid Search
+CUST-0753,2024-05-05,US-Central,True,Email
+CUST-0754,2024-10-26,Canada,True,Paid Search
+CUST-0755,2024-01-25,US-East,True,Organic
+CUST-0756,2024-05-24,US-West,True,Organic
+CUST-0757,2024-01-13,US-West,True,Organic
+CUST-0758,2024-07-30,US-West,False,Paid Search
+CUST-0759,2024-01-25,US-East,True,Paid Search
+CUST-0760,2024-03-08,Canada,False,Organic
+CUST-0761,2024-03-07,US-West,False,Email
+CUST-0762,2024-08-20,US-Central,False,Social
+CUST-0763,2024-04-18,US-West,False,Paid Search
+CUST-0764,2024-05-25,US-West,True,Social
+CUST-0765,2024-04-20,US-West,False,Organic
+CUST-0766,2024-08-15,US-West,False,Paid Search
+CUST-0767,2024-04-20,Canada,True,Paid Search
+CUST-0768,2024-02-03,US-Central,True,Social
+CUST-0769,2024-04-20,Canada,False,Social
+CUST-0770,2024-09-20,US-Central,True,Organic
+CUST-0771,2024-08-23,US-West,True,Email
+CUST-0772,2024-03-23,US-East,True,Organic
+CUST-0773,2024-02-11,Canada,True,Social
+CUST-0774,2024-04-10,US-East,True,Email
+CUST-0775,2024-01-06,Canada,False,Organic
+CUST-0776,2024-06-28,US-West,True,Social
+CUST-0777,2024-10-08,Canada,True,Organic
+CUST-0778,2024-08-13,US-West,True,Paid Search
+CUST-0779,2024-08-16,Canada,True,Paid Search
+CUST-0780,2024-10-15,US-West,False,Paid Search
+CUST-0781,2024-05-29,US-West,True,Email
+CUST-0782,2024-10-03,US-Central,True,Social
+CUST-0783,2024-07-16,US-West,True,Paid Search
+CUST-0784,2024-03-10,US-Central,True,Social
+CUST-0785,2024-04-21,US-West,False,Email
+CUST-0786,2024-01-04,US-East,False,Organic
+CUST-0787,2024-04-04,US-West,True,Email
+CUST-0788,2024-05-31,US-East,True,Organic
+CUST-0789,2024-05-16,US-East,True,Social
+CUST-0790,2024-09-03,US-West,True,Organic
+CUST-0791,2024-08-30,US-East,True,Organic
+CUST-0792,2024-01-31,US-Central,True,Paid Search
+CUST-0793,2024-02-09,Canada,True,Paid Search
+CUST-0794,2024-08-16,US-West,True,Paid Search
+CUST-0795,2024-02-05,US-East,False,Organic
+CUST-0796,2024-08-10,US-West,False,Paid Search
+CUST-0797,2024-01-06,US-Central,True,Email
+CUST-0798,2024-08-07,US-West,False,Paid Search
+CUST-0799,2024-03-15,US-West,True,Organic
+CUST-0800,2024-01-04,US-East,True,Paid Search
+CUST-0801,2024-05-13,US-Central,False,Organic
+CUST-0802,2024-04-27,Canada,False,Social
+CUST-0803,2024-04-03,Canada,False,Social
+CUST-0804,2024-03-02,US-East,True,Paid Search
+CUST-0805,2024-07-12,US-West,True,Paid Search
+CUST-0806,2024-07-21,US-East,False,Social
+CUST-0807,2024-01-26,US-East,True,Paid Search
+CUST-0808,2024-06-21,US-East,True,Social
+CUST-0809,2024-10-26,US-West,True,Paid Search
+CUST-0810,2024-05-12,US-Central,True,Social
+CUST-0811,2024-04-27,US-East,True,Paid Search
+CUST-0812,2024-10-01,US-West,True,Paid Search
+CUST-0813,2024-07-30,US-Central,False,Email
+CUST-0814,2024-08-12,US-East,True,Paid Search
+CUST-0815,2024-01-20,Canada,True,Paid Search
+CUST-0816,2024-04-22,US-Central,True,Organic
+CUST-0817,2024-05-19,US-East,True,Paid Search
+CUST-0818,2024-02-16,US-Central,True,Paid Search
+CUST-0819,2024-01-01,US-Central,True,Organic
+CUST-0820,2024-03-30,US-Central,False,Organic
+CUST-0821,2024-05-21,US-Central,True,Paid Search
+CUST-0822,2024-02-07,US-Central,False,Social
+CUST-0823,2024-10-19,US-Central,True,Paid Search
+CUST-0824,2024-05-18,US-East,True,Organic
+CUST-0825,2024-09-15,Canada,True,Social
+CUST-0826,2024-06-09,US-West,True,Organic
+CUST-0827,2024-06-26,US-Central,False,Paid Search
+CUST-0828,2024-01-10,US-West,True,Organic
+CUST-0829,2024-09-17,US-East,True,Organic
+CUST-0830,2024-05-17,US-Central,False,Organic
+CUST-0831,2024-06-20,Canada,False,Paid Search
+CUST-0832,2024-01-13,US-West,False,Organic
+CUST-0833,2024-06-16,US-Central,True,Paid Search
+CUST-0834,2024-05-09,US-East,False,Paid Search
+CUST-0835,2024-03-24,Canada,True,Paid Search
+CUST-0836,2024-04-10,US-West,True,Paid Search
+CUST-0837,2024-09-29,US-West,True,Social
+CUST-0838,2024-09-21,US-Central,True,Organic
+CUST-0839,2024-02-07,Canada,True,Paid Search
+CUST-0840,2024-04-03,Canada,True,Organic
+CUST-0841,2024-04-04,Canada,False,Organic
+CUST-0842,2024-03-09,Canada,True,Paid Search
+CUST-0843,2024-08-23,US-East,True,Paid Search
+CUST-0844,2024-05-16,Canada,True,Social
+CUST-0845,2024-03-16,US-West,False,Paid Search
+CUST-0846,2024-02-04,US-West,True,Email
+CUST-0847,2024-01-01,US-East,True,Organic
+CUST-0848,2024-10-22,US-West,False,Organic
+CUST-0849,2024-02-29,US-West,False,Organic
+CUST-0850,2024-09-23,Canada,True,Organic
+CUST-0851,2024-08-16,US-West,True,Paid Search
+CUST-0852,2024-09-26,US-East,False,Paid Search
+CUST-0853,2024-10-12,Canada,True,Organic
+CUST-0854,2024-10-17,US-Central,True,Email
+CUST-0855,2024-07-31,Canada,False,Social
+CUST-0856,2024-06-13,US-East,True,Organic
+CUST-0857,2024-01-05,Canada,True,Organic
+CUST-0858,2024-03-18,Canada,True,Organic
+CUST-0859,2024-03-02,US-East,True,Organic
+CUST-0860,2024-05-11,Canada,True,Organic
+CUST-0861,2024-03-29,US-East,False,Paid Search
+CUST-0862,2024-08-24,US-East,True,Organic
+CUST-0863,2024-02-11,US-Central,True,Paid Search
+CUST-0864,2024-03-29,US-West,True,Email
+CUST-0865,2024-10-22,US-West,True,Social
+CUST-0866,2024-10-21,Canada,False,Email
+CUST-0867,2024-04-13,Canada,True,Organic
+CUST-0868,2024-01-14,US-Central,True,Paid Search
+CUST-0869,2024-10-14,US-Central,True,Paid Search
+CUST-0870,2024-06-27,US-Central,True,Organic
+CUST-0871,2024-05-04,US-East,True,Organic
+CUST-0872,2024-01-23,US-Central,False,Social
+CUST-0873,2024-03-03,US-Central,False,Paid Search
+CUST-0874,2024-05-22,Canada,True,Paid Search
+CUST-0875,2024-06-01,US-Central,True,Paid Search
+CUST-0876,2024-05-24,US-East,False,Paid Search
+CUST-0877,2024-08-12,US-East,False,Organic
+CUST-0878,2024-04-13,Canada,True,Paid Search
+CUST-0879,2024-04-13,US-Central,True,Organic
+CUST-0880,2024-02-08,US-Central,True,Organic
+CUST-0881,2024-07-16,US-East,False,Email
+CUST-0882,2024-05-13,US-Central,False,Paid Search
+CUST-0883,2024-03-07,US-Central,True,Social
+CUST-0884,2024-06-27,US-Central,True,Paid Search
+CUST-0885,2024-02-11,US-West,False,Paid Search
+CUST-0886,2024-01-15,Canada,False,Organic
+CUST-0887,2024-04-20,US-West,False,Organic
+CUST-0888,2024-06-05,Canada,False,Organic
+CUST-0889,2024-10-15,US-East,True,Social
+CUST-0890,2024-08-18,US-Central,True,Social
+CUST-0891,2024-06-05,Canada,True,Paid Search
+CUST-0892,2024-02-07,US-West,True,Paid Search
+CUST-0893,2024-04-06,US-Central,True,Email
+CUST-0894,2024-10-15,US-East,False,Organic
+CUST-0895,2024-09-10,Canada,True,Organic
+CUST-0896,2024-07-14,Canada,False,Paid Search
+CUST-0897,2024-03-26,Canada,True,Social
+CUST-0898,2024-01-10,US-Central,False,Email
+CUST-0899,2024-01-05,US-West,True,Organic
+CUST-0900,2024-05-02,US-West,True,Social
+CUST-0901,2024-04-27,Canada,True,Social
+CUST-0902,2024-10-20,US-East,True,Organic
+CUST-0903,2024-06-07,US-East,False,Paid Search
+CUST-0904,2024-08-15,US-West,False,Paid Search
+CUST-0905,2024-08-03,US-East,True,Email
+CUST-0906,2024-07-02,US-West,True,Organic
+CUST-0907,2024-01-15,Canada,True,Social
+CUST-0908,2024-06-05,US-West,True,Paid Search
+CUST-0909,2024-05-15,US-West,False,Social
+CUST-0910,2024-09-17,Canada,False,Paid Search
+CUST-0911,2024-06-05,US-East,True,Paid Search
+CUST-0912,2024-02-16,US-West,False,Social
+CUST-0913,2024-06-21,US-West,True,Social
+CUST-0914,2024-05-09,Canada,False,Social
+CUST-0915,2024-04-04,US-East,True,Organic
+CUST-0916,2024-04-24,US-West,False,Social
+CUST-0917,2024-08-30,Canada,False,Organic
+CUST-0918,2024-10-18,US-West,True,Paid Search
+CUST-0919,2024-10-08,US-Central,False,Paid Search
+CUST-0920,2024-10-25,Canada,True,Paid Search
+CUST-0921,2024-10-09,US-East,True,Paid Search
+CUST-0922,2024-03-09,US-East,True,Email
+CUST-0923,2024-05-27,US-East,False,Organic
+CUST-0924,2024-01-11,US-East,False,Social
+CUST-0925,2024-09-10,US-West,False,Paid Search
+CUST-0926,2024-02-07,US-West,False,Organic
+CUST-0927,2024-05-13,US-East,True,Organic
+CUST-0928,2024-07-18,US-East,False,Email
+CUST-0929,2024-01-23,US-East,True,Social
+CUST-0930,2024-08-05,US-West,True,Email
+CUST-0931,2024-05-20,US-East,True,Email
+CUST-0932,2024-04-13,US-East,False,Organic
+CUST-0933,2024-07-28,US-Central,False,Paid Search
+CUST-0934,2024-04-20,US-Central,True,Social
+CUST-0935,2024-04-13,US-East,True,Paid Search
+CUST-0936,2024-06-19,Canada,False,Paid Search
+CUST-0937,2024-05-12,US-East,True,Paid Search
+CUST-0938,2024-10-19,US-Central,False,Paid Search
+CUST-0939,2024-05-06,Canada,False,Paid Search
+CUST-0940,2024-04-15,Canada,True,Organic
+CUST-0941,2024-04-01,US-East,True,Paid Search
+CUST-0942,2024-10-13,US-Central,False,Paid Search
+CUST-0943,2024-02-20,US-Central,False,Paid Search
+CUST-0944,2024-01-29,Canada,True,Organic
+CUST-0945,2024-10-22,US-East,False,Social
+CUST-0946,2024-10-23,US-West,True,Organic
+CUST-0947,2024-08-01,US-West,True,Paid Search
+CUST-0948,2024-09-23,US-Central,False,Social
+CUST-0949,2024-09-13,US-West,False,Paid Search
+CUST-0950,2024-04-10,US-Central,True,Organic
+CUST-0951,2024-04-19,US-Central,False,Social
+CUST-0952,2024-06-30,US-Central,True,Paid Search
+CUST-0953,2024-01-01,US-West,True,Social
+CUST-0954,2024-02-24,US-Central,True,Social
+CUST-0955,2024-05-28,Canada,False,Paid Search
+CUST-0956,2024-05-16,US-East,True,Paid Search
+CUST-0957,2024-07-20,US-East,True,Organic
+CUST-0958,2024-04-26,US-Central,True,Organic
+CUST-0959,2024-06-02,US-East,False,Paid Search
+CUST-0960,2024-10-17,US-West,True,Paid Search
+CUST-0961,2024-03-03,US-West,False,Paid Search
+CUST-0962,2024-08-31,US-East,True,Organic
+CUST-0963,2024-01-25,US-West,True,Organic
+CUST-0964,2024-03-30,US-East,True,Paid Search
+CUST-0965,2024-03-15,US-East,False,Organic
+CUST-0966,2024-10-20,US-East,False,Social
+CUST-0967,2024-07-28,US-Central,True,Organic
+CUST-0968,2024-01-17,US-East,True,Paid Search
+CUST-0969,2024-05-07,US-Central,True,Email
+CUST-0970,2024-09-07,US-East,True,Organic
+CUST-0971,2024-06-27,US-East,True,Paid Search
+CUST-0972,2024-06-30,US-East,True,Organic
+CUST-0973,2024-05-31,US-West,True,Paid Search
+CUST-0974,2024-01-25,US-Central,True,Paid Search
+CUST-0975,2024-06-28,US-Central,True,Paid Search
+CUST-0976,2024-07-16,US-East,False,Paid Search
+CUST-0977,2024-06-09,US-East,True,Social
+CUST-0978,2024-06-25,US-West,True,Organic
+CUST-0979,2024-10-11,US-West,False,Organic
+CUST-0980,2024-03-03,US-West,True,Social
+CUST-0981,2024-05-29,US-Central,True,Paid Search
+CUST-0982,2024-06-02,US-Central,True,Social
+CUST-0983,2024-06-04,US-Central,True,Paid Search
+CUST-0984,2024-02-18,US-East,True,Social
+CUST-0985,2024-03-24,US-Central,True,Paid Search
+CUST-0986,2024-06-25,Canada,False,Social
+CUST-0987,2024-05-27,Canada,True,Email
+CUST-0988,2024-04-27,US-West,True,Paid Search
+CUST-0989,2024-03-03,US-Central,True,Organic
+CUST-0990,2024-07-07,Canada,True,Organic
+CUST-0991,2024-02-18,US-West,True,Organic
+CUST-0992,2024-09-13,US-Central,False,Organic
+CUST-0993,2024-08-11,US-East,True,Paid Search
+CUST-0994,2024-05-20,Canada,True,Paid Search
+CUST-0995,2024-08-02,US-East,True,Paid Search
+CUST-0996,2024-07-29,US-Central,True,Paid Search
+CUST-0997,2024-02-01,Canada,False,Paid Search
+CUST-0998,2024-06-06,US-Central,True,Organic
+CUST-0999,2024-10-11,US-East,True,Organic
+CUST-1000,2024-10-12,Canada,True,Organic
+CUST-1001,2024-05-23,US-East,False,Paid Search
+CUST-1002,2024-01-19,US-Central,True,Organic
+CUST-1003,2024-01-18,US-Central,True,Organic
+CUST-1004,2024-09-13,US-East,False,Paid Search
+CUST-1005,2024-03-18,Canada,False,Social
+CUST-1006,2024-06-23,US-East,True,Organic
+CUST-1007,2024-07-12,US-Central,True,Paid Search
+CUST-1008,2024-04-22,US-East,True,Social
+CUST-1009,2024-04-23,US-Central,True,Social
+CUST-1010,2024-08-09,US-East,True,Email
+CUST-1011,2024-06-14,Canada,True,Organic
+CUST-1012,2024-05-11,Canada,True,Organic
+CUST-1013,2024-09-20,US-East,True,Social
+CUST-1014,2024-02-24,US-East,True,Paid Search
+CUST-1015,2024-05-10,Canada,False,Paid Search
+CUST-1016,2024-10-14,US-Central,True,Social
+CUST-1017,2024-09-22,Canada,True,Social
+CUST-1018,2024-06-10,US-Central,True,Email
+CUST-1019,2024-03-27,US-East,False,Email
+CUST-1020,2024-02-24,US-East,True,Social
+CUST-1021,2024-10-14,US-Central,True,Organic
+CUST-1022,2024-06-26,US-East,True,Social
+CUST-1023,2024-01-08,US-Central,True,Organic
+CUST-1024,2024-09-03,US-West,True,Organic
+CUST-1025,2024-09-11,Canada,True,Social
+CUST-1026,2024-02-23,US-West,True,Organic
+CUST-1027,2024-09-05,US-Central,False,Organic
+CUST-1028,2024-08-26,Canada,True,Organic
+CUST-1029,2024-08-16,US-Central,True,Social
+CUST-1030,2024-03-07,Canada,False,Paid Search
+CUST-1031,2024-02-20,Canada,True,Social
+CUST-1032,2024-04-06,Canada,True,Organic
+CUST-1033,2024-04-01,Canada,True,Social
+CUST-1034,2024-09-20,US-Central,True,Social
+CUST-1035,2024-10-17,Canada,False,Paid Search
+CUST-1036,2024-04-05,Canada,False,Paid Search
+CUST-1037,2024-03-28,US-West,True,Organic
+CUST-1038,2024-03-18,US-East,True,Email
+CUST-1039,2024-10-14,US-East,False,Paid Search
+CUST-1040,2024-04-29,US-West,False,Email
+CUST-1041,2024-06-13,US-West,False,Paid Search
+CUST-1042,2024-06-30,US-Central,True,Social
+CUST-1043,2024-08-10,US-Central,True,Social
+CUST-1044,2024-01-07,US-Central,False,Social
+CUST-1045,2024-09-19,US-West,True,Email
+CUST-1046,2024-06-09,US-West,True,Paid Search
+CUST-1047,2024-05-30,Canada,True,Organic
+CUST-1048,2024-03-25,US-Central,True,Social
+CUST-1049,2024-05-26,US-Central,True,Social
+CUST-1050,2024-04-21,US-Central,True,Paid Search
+CUST-1051,2024-02-05,US-East,False,Organic
+CUST-1052,2024-10-11,Canada,True,Paid Search
+CUST-1053,2024-07-06,US-Central,False,Paid Search
+CUST-1054,2024-03-22,US-Central,True,Paid Search
+CUST-1055,2024-01-02,US-Central,True,Paid Search
+CUST-1056,2024-07-15,US-East,False,Social
+CUST-1057,2024-01-11,US-East,True,Organic
+CUST-1058,2024-08-21,US-West,True,Paid Search
+CUST-1059,2024-07-13,Canada,True,Organic
+CUST-1060,2024-04-28,US-West,True,Organic
+CUST-1061,2024-01-20,Canada,False,Social
+CUST-1062,2024-09-17,US-East,False,Email
+CUST-1063,2024-10-19,US-Central,True,Paid Search
+CUST-1064,2024-09-12,US-West,True,Social
+CUST-1065,2024-08-09,US-Central,True,Social
+CUST-1066,2024-08-13,US-West,False,Social
+CUST-1067,2024-02-22,US-East,True,Organic
+CUST-1068,2024-10-06,US-East,True,Email
+CUST-1069,2024-03-21,US-East,True,Paid Search
+CUST-1070,2024-07-20,US-West,True,Paid Search
+CUST-1071,2024-06-06,Canada,True,Organic
+CUST-1072,2024-04-29,US-West,False,Paid Search
+CUST-1073,2024-02-28,Canada,True,Organic
+CUST-1074,2024-08-02,US-West,True,Organic
+CUST-1075,2024-05-07,US-West,False,Paid Search
+CUST-1076,2024-08-11,US-East,False,Social
+CUST-1077,2024-07-27,US-Central,True,Social
+CUST-1078,2024-04-24,US-Central,True,Paid Search
+CUST-1079,2024-07-27,Canada,True,Social
+CUST-1080,2024-01-14,US-Central,True,Social
+CUST-1081,2024-01-09,US-West,True,Social
+CUST-1082,2024-02-09,US-West,True,Organic
+CUST-1083,2024-08-24,US-East,True,Social
+CUST-1084,2024-10-07,US-East,False,Email
+CUST-1085,2024-07-19,US-Central,True,Social
+CUST-1086,2024-09-02,Canada,True,Paid Search
+CUST-1087,2024-10-04,US-Central,True,Paid Search
+CUST-1088,2024-08-22,US-Central,False,Paid Search
+CUST-1089,2024-01-04,US-Central,False,Paid Search
+CUST-1090,2024-06-02,US-Central,False,Organic
+CUST-1091,2024-01-29,US-West,False,Paid Search
+CUST-1092,2024-04-18,Canada,False,Social
+CUST-1093,2024-04-07,US-West,True,Social
+CUST-1094,2024-08-02,Canada,True,Organic
+CUST-1095,2024-10-19,US-East,True,Email
+CUST-1096,2024-03-15,US-Central,False,Paid Search
+CUST-1097,2024-05-25,US-West,False,Social
+CUST-1098,2024-05-07,Canada,True,Social
+CUST-1099,2024-02-11,US-East,True,Social
+CUST-1100,2024-02-10,US-East,True,Email
+CUST-1101,2024-02-03,US-Central,False,Paid Search
+CUST-1102,2024-01-17,Canada,True,Social
+CUST-1103,2024-06-13,US-West,True,Organic
+CUST-1104,2024-06-01,US-Central,True,Social
+CUST-1105,2024-03-16,US-West,True,Social
+CUST-1106,2024-03-27,US-East,False,Social
+CUST-1107,2024-04-26,US-West,True,Organic
+CUST-1108,2024-01-27,US-West,False,Social
+CUST-1109,2024-10-13,US-Central,True,Organic
+CUST-1110,2024-05-13,US-West,True,Organic
+CUST-1111,2024-08-06,US-Central,True,Social
+CUST-1112,2024-06-16,US-East,False,Paid Search
+CUST-1113,2024-04-07,US-Central,True,Social
+CUST-1114,2024-09-24,US-Central,True,Paid Search
+CUST-1115,2024-08-24,Canada,True,Organic
+CUST-1116,2024-06-21,US-West,False,Social
+CUST-1117,2024-07-08,US-East,True,Paid Search
+CUST-1118,2024-05-01,US-Central,False,Organic
+CUST-1119,2024-02-15,US-East,True,Social
+CUST-1120,2024-03-04,Canada,True,Paid Search
+CUST-1121,2024-05-09,US-West,True,Paid Search
+CUST-1122,2024-07-11,US-Central,True,Paid Search
+CUST-1123,2024-06-29,US-West,True,Social
+CUST-1124,2024-10-18,Canada,True,Social
+CUST-1125,2024-10-08,Canada,True,Social
+CUST-1126,2024-01-29,US-East,False,Organic
+CUST-1127,2024-05-28,US-Central,True,Social
+CUST-1128,2024-09-23,US-East,False,Social
+CUST-1129,2024-10-22,Canada,True,Social
+CUST-1130,2024-01-11,US-West,True,Paid Search
+CUST-1131,2024-06-12,US-East,True,Social
+CUST-1132,2024-04-22,US-East,True,Social
+CUST-1133,2024-07-05,US-West,True,Organic
+CUST-1134,2024-10-21,US-East,True,Paid Search
+CUST-1135,2024-08-19,US-West,True,Social
+CUST-1136,2024-08-14,US-Central,True,Organic
+CUST-1137,2024-04-07,US-West,False,Email
+CUST-1138,2024-02-24,US-Central,False,Social
+CUST-1139,2024-04-20,US-West,True,Paid Search
+CUST-1140,2024-05-31,Canada,True,Organic
+CUST-1141,2024-09-02,Canada,True,Organic
+CUST-1142,2024-03-09,US-Central,True,Email
+CUST-1143,2024-10-15,US-Central,True,Organic
+CUST-1144,2024-09-06,Canada,True,Social
+CUST-1145,2024-02-05,US-Central,True,Paid Search
+CUST-1146,2024-08-26,US-West,True,Organic
+CUST-1147,2024-05-27,US-West,True,Organic
+CUST-1148,2024-08-14,Canada,False,Paid Search
+CUST-1149,2024-08-31,US-East,False,Email
+CUST-1150,2024-07-19,US-West,True,Paid Search
+CUST-1151,2024-06-02,US-Central,False,Paid Search
+CUST-1152,2024-03-13,US-East,False,Paid Search
+CUST-1153,2024-07-19,US-East,True,Paid Search
+CUST-1154,2024-10-22,US-West,True,Paid Search
+CUST-1155,2024-01-17,US-West,True,Social
+CUST-1156,2024-05-08,US-East,False,Paid Search
+CUST-1157,2024-08-04,US-East,False,Paid Search
+CUST-1158,2024-03-01,Canada,True,Organic
+CUST-1159,2024-04-13,US-Central,True,Email
+CUST-1160,2024-02-11,Canada,True,Organic
+CUST-1161,2024-01-25,US-West,True,Organic
+CUST-1162,2024-02-08,Canada,True,Social
+CUST-1163,2024-10-17,Canada,False,Paid Search
+CUST-1164,2024-05-10,Canada,True,Paid Search
+CUST-1165,2024-08-16,Canada,False,Paid Search
+CUST-1166,2024-04-17,US-Central,False,Social
+CUST-1167,2024-06-20,US-Central,False,Organic
+CUST-1168,2024-04-11,US-East,True,Social
+CUST-1169,2024-01-12,US-West,True,Paid Search
+CUST-1170,2024-10-01,Canada,True,Paid Search
+CUST-1171,2024-04-10,US-East,True,Paid Search
+CUST-1172,2024-02-13,US-East,True,Organic
+CUST-1173,2024-01-17,US-East,True,Social
+CUST-1174,2024-02-26,US-Central,True,Paid Search
+CUST-1175,2024-01-12,Canada,True,Paid Search
+CUST-1176,2024-03-20,Canada,True,Paid Search
+CUST-1177,2024-08-03,US-West,True,Email
+CUST-1178,2024-09-20,Canada,False,Paid Search
+CUST-1179,2024-05-28,Canada,False,Email
+CUST-1180,2024-03-21,US-East,True,Paid Search
+CUST-1181,2024-08-02,US-West,True,Organic
+CUST-1182,2024-07-16,Canada,True,Organic
+CUST-1183,2024-07-18,US-Central,True,Paid Search
+CUST-1184,2024-01-25,Canada,True,Organic
+CUST-1185,2024-03-29,US-East,False,Organic
+CUST-1186,2024-09-24,US-Central,True,Email
+CUST-1187,2024-05-22,US-East,True,Social
+CUST-1188,2024-02-28,Canada,True,Social
+CUST-1189,2024-01-26,US-Central,True,Organic
+CUST-1190,2024-02-16,US-West,True,Organic
+CUST-1191,2024-10-14,US-West,True,Organic
+CUST-1192,2024-09-22,US-Central,True,Social
+CUST-1193,2024-01-16,US-Central,True,Email
+CUST-1194,2024-07-17,US-East,True,Paid Search
+CUST-1195,2024-10-08,US-Central,True,Organic
+CUST-1196,2024-03-26,US-East,True,Paid Search
+CUST-1197,2024-09-06,Canada,False,Paid Search
+CUST-1198,2024-09-26,US-East,True,Paid Search
+CUST-1199,2024-04-26,US-Central,True,Paid Search
+CUST-1200,2024-01-07,US-Central,True,Social
+CUST-1201,2024-05-16,Canada,True,Organic
+CUST-1202,2024-06-24,US-Central,True,Organic
+CUST-1203,2024-08-02,US-Central,True,Email
+CUST-1204,2024-03-22,US-West,False,Organic
+CUST-1205,2024-08-10,US-West,True,Organic
+CUST-1206,2024-04-12,Canada,True,Organic
+CUST-1207,2024-09-29,US-East,True,Organic
+CUST-1208,2024-01-14,US-West,False,Paid Search
+CUST-1209,2024-06-07,US-East,True,Social
+CUST-1210,2024-05-31,US-Central,True,Paid Search
+CUST-1211,2024-04-17,US-West,True,Paid Search
+CUST-1212,2024-07-06,Canada,True,Social
+CUST-1213,2024-04-07,Canada,True,Paid Search
+CUST-1214,2024-05-10,Canada,True,Social
+CUST-1215,2024-10-19,US-West,True,Social
+CUST-1216,2024-06-19,US-East,True,Organic
+CUST-1217,2024-07-01,US-Central,True,Social
+CUST-1218,2024-02-08,US-East,True,Paid Search
+CUST-1219,2024-01-15,US-East,False,Email
+CUST-1220,2024-01-04,US-Central,True,Paid Search
+CUST-1221,2024-07-28,US-Central,True,Email
+CUST-1222,2024-06-09,US-West,True,Social
+CUST-1223,2024-01-16,US-West,True,Organic
+CUST-1224,2024-04-17,US-West,False,Paid Search
+CUST-1225,2024-08-14,US-West,True,Email
+CUST-1226,2024-06-18,US-West,True,Social
+CUST-1227,2024-02-03,US-Central,True,Organic
+CUST-1228,2024-09-07,US-East,True,Social
+CUST-1229,2024-09-03,US-West,True,Paid Search
+CUST-1230,2024-09-25,US-West,True,Organic
+CUST-1231,2024-05-20,US-East,True,Paid Search
+CUST-1232,2024-09-30,US-West,False,Organic
+CUST-1233,2024-04-05,US-East,True,Social
+CUST-1234,2024-08-14,US-East,False,Paid Search
+CUST-1235,2024-02-08,US-Central,False,Social
+CUST-1236,2024-01-29,Canada,False,Organic
+CUST-1237,2024-09-01,US-Central,True,Paid Search
+CUST-1238,2024-08-23,Canada,True,Organic
+CUST-1239,2024-07-03,Canada,False,Organic
+CUST-1240,2024-09-28,Canada,True,Organic
+CUST-1241,2024-08-23,US-West,True,Organic
+CUST-1242,2024-08-26,US-Central,False,Paid Search
+CUST-1243,2024-09-22,Canada,False,Organic
+CUST-1244,2024-03-05,US-East,True,Paid Search
+CUST-1245,2024-06-25,US-West,True,Paid Search
+CUST-1246,2024-01-03,US-Central,True,Social
+CUST-1247,2024-05-21,Canada,False,Email
+CUST-1248,2024-06-06,US-East,False,Paid Search
+CUST-1249,2024-05-25,US-Central,True,Paid Search
+CUST-1250,2024-10-19,US-Central,True,Organic
+CUST-1251,2024-06-01,US-West,False,Email
+CUST-1252,2024-07-11,US-Central,True,Organic
+CUST-1253,2024-03-13,US-West,True,Organic
+CUST-1254,2024-05-19,Canada,False,Organic
+CUST-1255,2024-07-05,US-West,True,Paid Search
+CUST-1256,2024-10-19,US-East,True,Organic
+CUST-1257,2024-03-01,US-West,True,Social
+CUST-1258,2024-07-16,US-East,True,Organic
+CUST-1259,2024-10-21,US-West,False,Paid Search
+CUST-1260,2024-01-11,US-Central,True,Organic
+CUST-1261,2024-03-02,Canada,False,Organic
+CUST-1262,2024-08-13,US-East,True,Email
+CUST-1263,2024-06-01,US-West,True,Organic
+CUST-1264,2024-07-17,US-West,True,Social
+CUST-1265,2024-02-21,US-West,True,Paid Search
+CUST-1266,2024-09-16,US-Central,True,Organic
+CUST-1267,2024-02-28,US-Central,True,Email
+CUST-1268,2024-03-12,US-East,True,Organic
+CUST-1269,2024-05-27,US-East,True,Social
+CUST-1270,2024-03-03,US-Central,False,Organic
+CUST-1271,2024-08-30,US-East,True,Social
+CUST-1272,2024-04-16,Canada,False,Organic
+CUST-1273,2024-08-13,Canada,True,Paid Search
+CUST-1274,2024-08-05,US-Central,True,Social
+CUST-1275,2024-08-28,US-East,True,Email
+CUST-1276,2024-09-15,US-West,True,Email
+CUST-1277,2024-09-18,Canada,True,Social
+CUST-1278,2024-01-05,US-Central,False,Social
+CUST-1279,2024-09-17,US-East,False,Organic
+CUST-1280,2024-02-23,US-Central,True,Organic
+CUST-1281,2024-02-16,US-West,True,Organic
+CUST-1282,2024-08-02,Canada,False,Paid Search
+CUST-1283,2024-06-25,US-Central,True,Paid Search
+CUST-1284,2024-01-09,US-Central,False,Paid Search
+CUST-1285,2024-04-08,US-Central,False,Organic
+CUST-1286,2024-01-20,US-West,False,Social
+CUST-1287,2024-08-28,US-Central,True,Organic
+CUST-1288,2024-03-01,US-West,True,Paid Search
+CUST-1289,2024-06-26,US-West,True,Paid Search
+CUST-1290,2024-03-02,US-West,True,Social
+CUST-1291,2024-05-24,Canada,False,Social
+CUST-1292,2024-08-03,Canada,True,Paid Search
+CUST-1293,2024-01-03,US-Central,True,Organic
+CUST-1294,2024-06-08,US-Central,False,Paid Search
+CUST-1295,2024-08-14,Canada,False,Organic
+CUST-1296,2024-09-25,US-East,False,Paid Search
+CUST-1297,2024-04-29,Canada,False,Paid Search
+CUST-1298,2024-03-29,US-West,True,Organic
+CUST-1299,2024-03-08,Canada,True,Organic
+CUST-1300,2024-04-07,US-West,False,Email
+CUST-1301,2024-09-23,US-Central,True,Email
+CUST-1302,2024-04-14,US-East,True,Paid Search
+CUST-1303,2024-05-02,US-Central,True,Organic
+CUST-1304,2024-01-29,US-West,True,Organic
+CUST-1305,2024-05-16,US-West,False,Paid Search
+CUST-1306,2024-07-13,US-West,True,Email
+CUST-1307,2024-08-13,US-East,True,Organic
+CUST-1308,2024-06-18,Canada,True,Social
+CUST-1309,2024-01-09,US-Central,True,Organic
+CUST-1310,2024-02-09,US-Central,True,Email
+CUST-1311,2024-01-25,Canada,True,Paid Search
+CUST-1312,2024-09-17,US-Central,False,Social
+CUST-1313,2024-08-13,US-East,True,Paid Search
+CUST-1314,2024-05-03,US-Central,True,Paid Search
+CUST-1315,2024-02-07,US-West,True,Organic
+CUST-1316,2024-09-07,Canada,True,Organic
+CUST-1317,2024-06-24,US-East,True,Email
+CUST-1318,2024-03-30,Canada,False,Email
+CUST-1319,2024-02-06,US-East,True,Social
+CUST-1320,2024-06-24,US-West,False,Paid Search
+CUST-1321,2024-10-10,Canada,True,Social
+CUST-1322,2024-03-21,US-Central,True,Organic
+CUST-1323,2024-04-23,US-East,True,Paid Search
+CUST-1324,2024-02-09,Canada,False,Paid Search
+CUST-1325,2024-08-11,US-Central,True,Paid Search
+CUST-1326,2024-04-24,Canada,True,Paid Search
+CUST-1327,2024-07-04,Canada,True,Organic
+CUST-1328,2024-02-25,Canada,True,Paid Search
+CUST-1329,2024-02-09,US-East,True,Social
+CUST-1330,2024-02-09,US-Central,True,Paid Search
+CUST-1331,2024-08-24,US-West,True,Organic
+CUST-1332,2024-10-15,US-East,True,Organic
+CUST-1333,2024-09-18,US-East,True,Organic
+CUST-1334,2024-08-03,US-East,False,Organic
+CUST-1335,2024-05-26,US-West,False,Paid Search
+CUST-1336,2024-06-16,US-Central,False,Paid Search
+CUST-1337,2024-04-01,US-Central,True,Social
+CUST-1338,2024-02-28,US-Central,True,Paid Search
+CUST-1339,2024-02-28,Canada,True,Social
+CUST-1340,2024-06-17,Canada,True,Organic
+CUST-1341,2024-09-25,Canada,True,Paid Search
+CUST-1342,2024-02-14,US-West,True,Social
+CUST-1343,2024-06-29,Canada,True,Organic
+CUST-1344,2024-06-18,US-West,True,Organic
+CUST-1345,2024-07-09,US-Central,False,Social
+CUST-1346,2024-06-03,Canada,True,Paid Search
+CUST-1347,2024-07-06,Canada,True,Social
+CUST-1348,2024-01-07,US-East,True,Organic
+CUST-1349,2024-05-12,US-West,True,Social
+CUST-1350,2024-08-22,US-Central,True,Paid Search
+CUST-1351,2024-02-14,US-East,False,Organic
+CUST-1352,2024-09-05,US-East,False,Paid Search
+CUST-1353,2024-01-31,US-Central,True,Organic
+CUST-1354,2024-01-23,US-East,False,Paid Search
+CUST-1355,2024-06-08,US-West,False,Organic
+CUST-1356,2024-06-06,US-West,False,Organic
+CUST-1357,2024-02-08,Canada,False,Organic
+CUST-1358,2024-03-22,US-East,True,Organic
+CUST-1359,2024-09-14,Canada,True,Email
+CUST-1360,2024-07-24,US-East,True,Organic
+CUST-1361,2024-03-17,US-West,True,Paid Search
+CUST-1362,2024-01-12,US-West,False,Organic
+CUST-1363,2024-10-21,US-West,True,Paid Search
+CUST-1364,2024-08-11,US-East,False,Email
+CUST-1365,2024-01-13,US-West,False,Organic
+CUST-1366,2024-02-15,US-East,False,Email
+CUST-1367,2024-06-03,Canada,False,Organic
+CUST-1368,2024-04-22,US-East,True,Social
+CUST-1369,2024-08-20,Canada,True,Paid Search
+CUST-1370,2024-01-17,US-East,True,Social
+CUST-1371,2024-08-10,Canada,True,Paid Search
+CUST-1372,2024-07-06,US-West,True,Paid Search
+CUST-1373,2024-06-11,Canada,True,Organic
+CUST-1374,2024-03-14,US-West,False,Organic
+CUST-1375,2024-08-20,US-West,True,Email
+CUST-1376,2024-08-11,Canada,True,Paid Search
+CUST-1377,2024-02-29,US-East,True,Paid Search
+CUST-1378,2024-08-09,US-East,True,Social
+CUST-1379,2024-02-06,US-Central,True,Paid Search
+CUST-1380,2024-10-04,US-East,False,Email
+CUST-1381,2024-07-14,US-Central,True,Social
+CUST-1382,2024-08-29,US-East,False,Paid Search
+CUST-1383,2024-08-06,US-East,True,Social
+CUST-1384,2024-07-10,US-West,False,Organic
+CUST-1385,2024-01-17,US-Central,True,Organic
+CUST-1386,2024-01-12,US-East,True,Paid Search
+CUST-1387,2024-07-11,US-Central,True,Organic
+CUST-1388,2024-01-22,US-West,False,Social
+CUST-1389,2024-04-29,US-West,True,Email
+CUST-1390,2024-07-28,US-Central,True,Paid Search
+CUST-1391,2024-09-26,US-West,False,Paid Search
+CUST-1392,2024-07-10,Canada,False,Email
+CUST-1393,2024-06-23,Canada,True,Paid Search
+CUST-1394,2024-10-11,US-West,False,Paid Search
+CUST-1395,2024-07-22,Canada,True,Paid Search
+CUST-1396,2024-06-12,US-East,True,Email
+CUST-1397,2024-09-07,US-Central,True,Paid Search
+CUST-1398,2024-08-14,US-East,False,Social
+CUST-1399,2024-01-07,US-Central,False,Social
+CUST-1400,2024-01-29,US-West,True,Paid Search
+CUST-1401,2024-02-02,US-East,True,Paid Search
+CUST-1402,2024-05-13,US-West,True,Social
+CUST-1403,2024-03-19,US-West,False,Paid Search
+CUST-1404,2024-02-27,US-Central,False,Social
+CUST-1405,2024-01-26,US-Central,True,Email
+CUST-1406,2024-08-13,US-Central,False,Paid Search
+CUST-1407,2024-10-11,US-East,False,Social
+CUST-1408,2024-01-04,Canada,True,Social
+CUST-1409,2024-04-08,US-Central,True,Social
+CUST-1410,2024-02-08,US-Central,True,Paid Search
+CUST-1411,2024-09-27,US-East,True,Organic
+CUST-1412,2024-10-11,US-Central,True,Paid Search
+CUST-1413,2024-06-05,US-East,True,Social
+CUST-1414,2024-03-15,US-West,False,Paid Search
+CUST-1415,2024-10-14,US-Central,True,Social
+CUST-1416,2024-05-09,US-Central,True,Paid Search
+CUST-1417,2024-06-23,US-West,True,Paid Search
+CUST-1418,2024-03-24,US-West,True,Organic
+CUST-1419,2024-01-22,US-West,True,Social
+CUST-1420,2024-01-27,US-Central,True,Paid Search
+CUST-1421,2024-07-13,Canada,True,Organic
+CUST-1422,2024-08-23,Canada,True,Organic
+CUST-1423,2024-04-01,Canada,True,Social
+CUST-1424,2024-01-21,US-Central,True,Paid Search
+CUST-1425,2024-03-24,US-West,False,Organic
+CUST-1426,2024-09-18,US-Central,True,Email
+CUST-1427,2024-05-26,US-West,True,Social
+CUST-1428,2024-09-13,US-Central,False,Email
+CUST-1429,2024-02-27,US-Central,True,Paid Search
+CUST-1430,2024-01-15,US-West,True,Paid Search
+CUST-1431,2024-06-10,Canada,False,Social
+CUST-1432,2024-06-11,US-West,True,Paid Search
+CUST-1433,2024-10-07,US-East,True,Social
+CUST-1434,2024-10-06,US-East,False,Organic
+CUST-1435,2024-01-12,US-West,False,Paid Search
+CUST-1436,2024-09-30,US-Central,False,Organic
+CUST-1437,2024-09-27,US-East,True,Organic
+CUST-1438,2024-07-26,US-East,True,Organic
+CUST-1439,2024-01-27,US-Central,True,Organic
+CUST-1440,2024-03-12,US-Central,True,Email
+CUST-1441,2024-02-29,Canada,True,Organic
+CUST-1442,2024-05-24,US-Central,True,Social
+CUST-1443,2024-04-02,US-West,False,Social
+CUST-1444,2024-01-08,US-West,True,Paid Search
+CUST-1445,2024-03-19,Canada,True,Organic
+CUST-1446,2024-01-27,US-East,True,Social
+CUST-1447,2024-06-22,US-East,True,Paid Search
+CUST-1448,2024-02-19,US-Central,True,Social
+CUST-1449,2024-07-17,US-West,True,Social
+CUST-1450,2024-06-29,US-East,True,Email
+CUST-1451,2024-01-24,Canada,True,Paid Search
+CUST-1452,2024-02-15,Canada,False,Paid Search
+CUST-1453,2024-01-15,US-West,False,Paid Search
+CUST-1454,2024-06-01,Canada,True,Organic
+CUST-1455,2024-08-09,Canada,True,Social
+CUST-1456,2024-07-24,US-West,False,Organic
+CUST-1457,2024-09-29,US-Central,False,Paid Search
+CUST-1458,2024-08-23,US-Central,True,Social
+CUST-1459,2024-08-15,Canada,False,Paid Search
+CUST-1460,2024-01-09,US-Central,True,Paid Search
+CUST-1461,2024-06-14,US-Central,False,Paid Search
+CUST-1462,2024-08-01,Canada,False,Social
+CUST-1463,2024-04-26,US-Central,True,Paid Search
+CUST-1464,2024-03-12,Canada,False,Social
+CUST-1465,2024-03-04,US-East,True,Organic
+CUST-1466,2024-07-23,US-West,False,Social
+CUST-1467,2024-07-27,US-West,True,Social
+CUST-1468,2024-03-12,US-Central,False,Organic
+CUST-1469,2024-10-03,US-Central,True,Paid Search
+CUST-1470,2024-09-30,US-Central,True,Organic
+CUST-1471,2024-04-04,US-West,True,Social
+CUST-1472,2024-06-14,US-East,False,Paid Search
+CUST-1473,2024-02-01,US-East,False,Paid Search
+CUST-1474,2024-01-11,US-West,False,Organic
+CUST-1475,2024-08-04,US-East,False,Organic
+CUST-1476,2024-10-15,US-West,True,Organic
+CUST-1477,2024-04-11,US-East,True,Paid Search
+CUST-1478,2024-09-23,Canada,True,Paid Search
+CUST-1479,2024-08-01,Canada,True,Social
+CUST-1480,2024-06-27,US-West,True,Social
+CUST-1481,2024-03-28,US-East,True,Paid Search
+CUST-1482,2024-02-10,US-Central,True,Email
+CUST-1483,2024-03-16,US-East,True,Social
+CUST-1484,2024-02-15,Canada,True,Email
+CUST-1485,2024-06-08,Canada,True,Paid Search
+CUST-1486,2024-03-20,US-East,False,Organic
+CUST-1487,2024-03-26,US-East,False,Organic
+CUST-1488,2024-04-01,US-Central,False,Social
+CUST-1489,2024-05-27,US-Central,True,Organic
+CUST-1490,2024-06-09,US-East,True,Paid Search
+CUST-1491,2024-07-20,US-East,False,Paid Search
+CUST-1492,2024-08-29,US-East,True,Paid Search
+CUST-1493,2024-01-02,US-East,True,Paid Search
+CUST-1494,2024-08-12,US-West,True,Organic
+CUST-1495,2024-10-15,US-East,True,Paid Search
+CUST-1496,2024-08-20,US-Central,True,Paid Search
+CUST-1497,2024-03-17,Canada,True,Email
+CUST-1498,2024-04-25,US-West,True,Social
+CUST-1499,2024-06-02,US-East,True,Email
